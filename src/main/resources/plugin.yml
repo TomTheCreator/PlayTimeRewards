@@ -1,0 +1,7 @@
+main: me.tomthedevloper.playtimerewards.PlayTimeRewards
+version: 1.0
+name: PlayTimeRewards
+commands:
+  playtime:
+    description: Shows your playtime
+    usage: /playtime
